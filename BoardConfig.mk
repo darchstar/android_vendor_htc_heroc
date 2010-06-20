@@ -31,7 +31,7 @@ BOARD_NO_GL2 := true
 BOARD_HAVE_BLUETOOTH := true
 
 TARGET_HARDWARE_3D := false
-
+BOARD_USES_QCOM_LIBS := true
 BOARD_GPS_LIBRARIES := libgps librpc
 
 USE_PV_WINDOWS_MEDIA := false
